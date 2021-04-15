@@ -1,0 +1,26 @@
+h1 {
+    color: orange;
+    font-size: 65px;
+    font-family: sans-serif;
+  }
+
+  p {
+    font-weight: 3m;
+  }
+
+  li {
+    background-color: orchid;
+    font: orchid;
+  }
+
+ 
+  .list-style {
+    background-color: purple;
+    color: purple;
+  }
+
+
+  body{
+    font-style: line-height  ;
+    font-size: 160px;
+  }
