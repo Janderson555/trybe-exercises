@@ -1,14 +1,36 @@
-h1, p{
-  font-size: 30px;
-  text-align: center;
+.primary:hover{
+  color: red;
 }
-li:hover, ul:hover{
-  transition: 900ms;
-  font-size: 120%;
-  background-color: green;
+
+.secundary:hover{
+  color: blue;
+}
+
+.color-complement:hover{
+  color: purple;
   }
 
-li:active, ul:active{
-  transition: 500ms;
-  color: whitesmoke;
+.color-escura:hover{
+  color:rgb(16, 78, 119);
+} 
+
+.color-light:hover{
+  color: white;
+  background-color: black;
+}
+
+h3{
+  margin: 0px;
+  max-width: ;
+}
+
+div{
+  text-align: center;
+  font-size: 35px;
+}
+
+div:hover{
+  border-style:double;
+  border-color:paleturquoise;
+  border-width: 15px;
 }
