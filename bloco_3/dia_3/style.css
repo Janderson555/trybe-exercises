@@ -1,0 +1,36 @@
+.primary:hover{
+  color: red;
+}
+
+.secundary:hover{
+  color: blue;
+}
+
+.color-complement:hover{
+  color: purple;
+  }
+
+.color-escura:hover{
+  color:rgb(16, 78, 119);
+} 
+
+.color-light:hover{
+  color: white;
+  background-color: black;
+}
+
+h3{
+  margin: 0px;
+  max-width: ;
+}
+
+div{
+  text-align: center;
+  font-size: 35px;
+}
+
+div:hover{
+  border-style:double;
+  border-color:paleturquoise;
+  border-width: 15px;
+}
